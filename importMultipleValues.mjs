@@ -1,1 +1,1 @@
-import { myArray, bulb, multipleByFour } from "./exportMultipleValues.mjs";
+import { myArray, bulb, multiplyByFour } from "./exportMultipleValues.mjs";
